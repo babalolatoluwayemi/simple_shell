@@ -70,5 +70,5 @@ int _atoi(char *s)
 	else
 		output = result;
 
-	rturn (output);
+	return (output);
 }
