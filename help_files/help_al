@@ -12,4 +12,4 @@ alias: alias
 	NONE
     Exit Status:
     alias returns true unless a NAME is supplied for which no alias has been
-    defined.
+    defind.
