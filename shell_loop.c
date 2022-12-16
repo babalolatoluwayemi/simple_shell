@@ -154,7 +154,7 @@ void fork_cmd(info_t *info)
 		{
 			info->status = WEXITSTATUS(info->status);
 			if (info->status == 126)
-				prnt_error(info, "Permission denied\n");
+				print_error(info, "Permission denied\n");
 		}
 	}
 }
