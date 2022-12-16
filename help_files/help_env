@@ -4,4 +4,4 @@ env: env
     Options:
 	NONE
 
-      Return environment to standard output.
+      Rturn environment to standard output.
