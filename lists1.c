@@ -118,5 +118,5 @@ ssize_t get_node_index(list_t *head, list_t *node)
 		head = head->next;
 		i++;
 	}
-	rturn (-1);
+	return (-1);
 }
