@@ -83,5 +83,5 @@ int _putchar(char c)
 	}
 	if (c != BUF_FLUSH)
 		buf[i++] = c;
-	rturn (1);
+	return (1);
 }
