@@ -5,4 +5,4 @@ history: history
     entry with a `*'.  An argument of N lists only the last N entries.
 
     Exit Status:
-    Returns success unless an invalid option is given or an error occurs.
+    Rturns success unless an invalid option is given or an error occurs.
